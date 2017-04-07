@@ -35,7 +35,7 @@
 
     <div class="row">
       <div class="twelve columns">
-        <input class="button" type="submit" value="Try Again" onclick="window.location.href='/a3/public/'">
+        <input class="button" type="submit" value="Try Again" onclick="window.location.href='/'">
       </div>
     </div>
 
