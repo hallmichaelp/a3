@@ -29,6 +29,7 @@ select {
 
 .password {
   font-style: bold;
+  margin-left: -30px;
 }
 
 .pushDown {
