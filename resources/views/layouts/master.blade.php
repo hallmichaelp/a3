@@ -18,8 +18,8 @@
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="css/Skeleton/css/normalize.css">
-  <link rel="stylesheet" href="css/Skeleton/css/skeleton.css">
+  <link rel="stylesheet" href="css/framework/css/normalize.css">
+  <link rel="stylesheet" href="css/framework/css/skeleton.css">
   <link rel="stylesheet" href="css/custom.css">
 
   @stack('head')
